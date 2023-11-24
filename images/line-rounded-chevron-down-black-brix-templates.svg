@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="20"
+   height="13"
+   viewBox="0 0 20 13"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="line-rounded-chevron-down-black-brix-templates.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="60.3"
+     inkscape:cx="10"
+     inkscape:cy="6.5008292"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M1.27374 2.13684L10 10.8631L18.7263 2.13684"
+     stroke="#211F54"
+     stroke-width="2"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path2" />
+  <path
+     style="fill:#00cc00;fill-rule:evenodd;stroke:#000000;stroke-width:0.0165837;stroke-opacity:0;fill-opacity:1"
+     d="M 9.8092869,11.838781 C 9.6821303,11.806628 9.5558698,11.754603 9.4661619,11.697398 9.3889312,11.648149 8.2092338,10.478932 4.9619964,7.2332473 2.5422552,4.8146627 0.53346652,2.7985075 0.49802138,2.7529022 0.1858633,2.3512655 0.21706059,1.7968479 0.5717567,1.4425266 0.77189589,1.2425989 0.99261541,1.1525705 1.2826322,1.1525705 c 0.1944953,0 0.3683299,0.049717 0.5262967,0.150522 0.079513,0.05074 1.1306336,1.0917026 4.1487825,4.1086873 L 10,9.4525091 14.042289,5.4117798 c 3.018149,-3.0169847 4.06927,-4.0579469 4.148782,-4.1086873 0.158956,-0.1014357 0.331581,-0.150522 0.529352,-0.150522 0.289531,0 0.506555,0.088904 0.707821,0.2899561 0.354691,0.3543173 0.38589,0.9086739 0.07375,1.3103756 -0.121344,0.15616 -8.874865,8.8886148 -8.968348,8.9467648 -0.163351,0.101611 -0.287652,0.137014 -0.500477,0.142545 -0.1048917,0.0027 -0.205638,0.0012 -0.2238801,-0.0034 z"
+     id="path183" />
+</svg>
